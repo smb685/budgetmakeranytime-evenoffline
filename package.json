@@ -1,0 +1,23 @@
+{
+  "name": "budgetmakeranytime-evenoffline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smb685/budgetmakeranytime-evenoffline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smb685/budgetmakeranytime-evenoffline/issues"
+  },
+  "homepage": "https://github.com/smb685/budgetmakeranytime-evenoffline#readme",
+  "devDependencies": {
+    "webpack": "^4.46.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
